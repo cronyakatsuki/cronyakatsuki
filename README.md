@@ -7,8 +7,9 @@
 
 - 🤝 I help with **any project that I can help with**
 
-- 📝 I sometimes write articles on [https://cronytips.github.io](https://cronytips.github.io)
-
 - 📫 Reach me at **cronyakatsuki@tutanota.com**
 
 - ⚡ Fun fact **I'm actually very bad at programming**
+
+
+**Moved to gitlab**
