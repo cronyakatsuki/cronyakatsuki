@@ -7,9 +7,9 @@
 
 - 🤝 I help with **any project that I can help with**
 
-- 📫 Reach me at **cronyakatsuki@tutanota.com**
+- 📫 Reach me at **cron@cronyakatsuki.xyz*
 
 - ⚡ Fun fact **I'm actually very bad at programming**
 
 
-**Moved to gitlab**
+**Moved to personal gitea instance** [gitea](https://code.cronyakatsuki.xyz)
